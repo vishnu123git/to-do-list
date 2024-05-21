@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+section{
+    text-align: center;
+    justify-content: center;
+    margin-top: 300px;
+
+}
+h1{
+    margin-bottom: 12px;
+    font-weight: bold;
+
+}
+
+input{
+    margin: 1rem;
+    width: 30%;
+    padding: 0.2rem;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    padding: 0.2rem;
+    cursor: pointer;
+}
+
+
+.paragraph{
+    cursor: pointer;
+    font-weight: 700;
+    color: black;
+}
+
+
+.line{
+    cursor: pointer;
+    text-decoration: line-through;
+    
+}
